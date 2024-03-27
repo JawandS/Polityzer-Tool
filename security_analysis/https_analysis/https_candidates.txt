@@ -1,0 +1,11 @@
+fec_name: DavidLBulova, office: House, website: https://www.davidbulova.com, https_result: Error, http_result: 200
+fec_name: Michelle-AnnELopesMaldonado, office: House, website: https://michelle4va.com, https_result: Error, http_result: 200
+fec_name: LeonardBLacey, office: House, website: https://laceyfordelegate.org, https_result: Error, http_result: 404
+fec_name: ChristopherTHead, office: Senate, website: https://chrisheadva.com, https_result: Error, http_result: 200
+fec_name: VictoriaALuevanos, office: Senate, website: https://victorialuevanos.com, https_result: 404, http_result: 200
+fec_name: AngeliaWilliamsGraves, office: Senate, website: https://angeliawilliamsgraves.com, https_result: Error, http_result: 200
+fec_name: JoelLGriffin, office: Senate, website: https://joelgriffinva.com, https_result: Error, http_result: 404
+fec_name: MatthewJMattLang, office: Senate, website: https://www.langforva.com, https_result: Error, http_result: 404
+fec_name: SophiaCMoshasha, office: Senate, website: https://www.sophia4va.com, https_result: Error, http_result: 404
+fec_name: PaulKLott, office: House, website: https://paullottfordelegate.com/, https_result: 404, http_result: 403
+fec_name: RobertWBeckman, office: Senate, website: https://www.beckman4senate.com/, https_result: Error, http_result: 404
