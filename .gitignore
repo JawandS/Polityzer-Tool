@@ -1,0 +1,8 @@
+testing_full/
+html/
+privacy_policy_analysis/test_polisis.py
+security_analysis/virustotal_president_inactive.py
+.*.swp
+.DS_Store
+privacy_policy_analysis/policy_annotation/PrivacyPolicyAnalysis/ext/plaintext_policies
+privacy_policy_analysis/policy_annotation/PrivacyPolicyAnalysis/ext/NlpFinalModel
